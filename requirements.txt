@@ -1,0 +1,11 @@
+sqlalchemy>=2.0
+pyodbc>=5.0
+python-dotenv>=1.0
+langchain>=0.3
+langchain-community>=0.3
+langchain-openai>=0.3
+faiss-cpu>=1.8
+llama-index-core>=0.12
+llama-index-llms-azure-openai>=0.3
+llama-index-embeddings-azure-openai>=0.3
+streamlit>=1.40
